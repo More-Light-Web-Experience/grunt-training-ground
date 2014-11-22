@@ -1,0 +1,26 @@
+{
+  "name": "grunt-training-ground",
+  "version": "1.0.0",
+  "description": "jsut training ground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/More-Light-Web-Experience/grunt-training-ground.git"
+  },
+  "author": "wanggang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/More-Light-Web-Experience/grunt-training-ground/issues"
+  },
+  "homepage": "https://github.com/More-Light-Web-Experience/grunt-training-ground",
+
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.2"
+  }
+}
