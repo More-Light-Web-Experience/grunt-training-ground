@@ -1,1 +1,2 @@
-#some
+#this is the training groud, privtely...
+If you like ,fork for stduy grunt.
